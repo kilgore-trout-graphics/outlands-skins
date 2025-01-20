@@ -36,7 +36,7 @@ Here are some free replacement graphics for your container gumps in Ultima Onlin
 
 ### Leather/Suede Paperdoll
 
-![Suede Set](https://github.com/user-attachments/assets/41ad46ac-21d5-4d60-a58d-e04bcb86b485)
+![Suede Set](https://github.com/user-attachments/assets/fd64d324-d7ff-4560-9942-faf58c750be3)
 
 ### Custom Examples
 
